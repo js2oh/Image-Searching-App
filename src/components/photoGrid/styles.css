@@ -1,0 +1,8 @@
+.gridContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding-top: 70px;
+  background-color: rgb(100, 100, 100);
+}

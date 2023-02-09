@@ -1,0 +1,10 @@
+.gridContent {
+  margin: 15px 0px 15px 0px;
+  height: 300px;
+  width: 30%;
+  border-radius: 10px;
+}
+
+.gridContent:hover {
+  cursor: pointer;
+}
